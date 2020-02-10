@@ -1,0 +1,70 @@
+
+##Test Suite
+Test at line 28 ok.
+Test at line 29 ok.
+Test at line 30 ok.
+Test at line 32 ok.
+Test at line 33 ok.
+Test at line 34 ok.
+Test at line 35 ok.
+Test at line 36 ok.
+Test at line 39 ok.
+Test at line 40 ok.
+Test at line 41 ok.
+Test at line 42 ok.
+Test at line 43 ok.
+Test at line 45 ok.
+Test at line 46 ok.
+Test at line 47 ok.
+Test at line 48 ok.
+Test at line 49 ok.
+Test at line 50 ok.
+Test at line 51 ok.
+Test at line 52 ok.
+Test at line 53 ok.
+Test at line 54 ok.
+
+
+##End-to-End
+Please enter your first name:Sharon
+Please enter your last name:Lee
+Please enter your DNA sequence:CAG
+Final Result for  Sharon  Lee with DNA sequence  CAG :  ('Normal', 'Unaffected')
+
+Please enter your first name:Sharon
+Please enter your last name:Lee
+Please enter your DNA sequence:CAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAG
+CAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCA
+Final Result for  Sharon  Lee with DNA sequence- CAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAG
+CAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGC
+AGCAGCAGCA : has 41 CAG repeats, the classfication is Full Penetrance , and the disease 
+status is Affected .
+
+Please enter your first name:Bob
+Please enter your last name:Bobby
+Please enter your DNA sequence:CAGCCCCAGCAGCAGCAGGGGG
+Final Result for  Bob Bobby with DNA sequence- CAGCCCCAGCAGCAGCAGGGGG : has 1 CAG repeats,
+the classfication is Normal , and the disease status is Unaffected .
+
+Please enter your first name:Abbie
+Please enter your last name:Ab
+Please enter your DNA sequence:CAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGGACCCTCTAGCAGCAGCAGCAGCAGC
+AGGCAGCAGCAGCAGC
+Final Result for  Abbie Ab with DNA sequence- CAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGGACCCTCTAGC
+AGCAGCAGCAGCAGCAGGCAGCAGCAGCAGC : has 11 CAG repeats, the classfication is Normal , and the
+disease status is Unaffected .
+
+Please enter your first name:Shay
+Please enter your last name:Taylor
+Please enter your DNA sequence:GGGCAGCAGCCCCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGGGGGGGCAG
+CAGCAGCACAGCAGCAG
+Final Result for  Shay Taylor with DNA sequence- GGGCAGCAGCCCCAGCAGCAGCAGCAGCAGCAGCAGCAGCAG
+CAGCAGCAGGGGGGGCAGCAGCAGCACAGCAGCAG : has 0 CAG repeats, the classfication is Normal , and
+the disease status is Unaffected .
+
+Please enter your first name:Natalia
+Please enter your last name:Jensen
+Please enter your DNA sequence:CAGCAGGGGCAGCAGCAGCAGCAGCAGGGGGGGGGCCCCCAATTTTTTTTCAGCAGCAGCAG
+Final Result for  Natalia Jensen with DNA sequence- CAGCAGGGGCAGCAGCAGCAGCAGCAGGGGGGGGGCCCCCA
+ATTTTTTTTCAGCAGCAGCAG : has 2 CAG repeats, the classfication is Normal , and the disease status 
+is Unaffected .
